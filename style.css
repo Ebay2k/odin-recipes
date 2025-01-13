@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(179, 176, 176);
+}
+
+#img-one {
+    height: 300px;
+    width: 300px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+.para {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+}
